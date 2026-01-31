@@ -4,7 +4,7 @@
 </p>
 <h6 align="center">   14 yrs   .  SWE ENG  . s/he
   
-<h6 align="center">   𝘋𝘢𝘯𝘪 or 𝘓𝘰𝘯𝘦
+<h6 align="center">   𝘋𝘢𝘯𝘪 ou 𝘊𝘩𝘦𝘳𝘪𝘦
   
 <h6 align="center">   ah, Miss detective. You're here.
 <p align="center">
