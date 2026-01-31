@@ -9,3 +9,5 @@
 <h6 align="center">   ah, Miss detective. You're here.
 <p align="center">
 <img width="712" height="13" alt="image" src="https://github.com/user-attachments/assets/5f148a3e-8dbb-4c02-a2f9-11e8e11a638c" />
+
+<h6 align="center">  hey i barely have any friends so plsss. Dont be afraid to befriendmeee...... 13-16
