@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yuraoi&label=Profile%20views&color=cc0000&style=flat" alt="yuraoi" /> </p>
+<p align="center">
+  <img width="600" height="600" src="https://64.media.tumblr.com/c77392111c00df6713f3e7ddfb6f248a/17dea8455247c057-22/s400x600/6d314df08efc4aae6acd66f9799d3c34af4c429b.gifv">
+</p>
+<h6 align="center">   14 yrs   .  SWE ENG  . s/he
 
-<!--
-**yuraoi/yuraoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
+<p align="center">
+<img width="712" height="13" alt="image" src="https://github.com/user-attachments/assets/5f148a3e-8dbb-4c02-a2f9-11e8e11a638c" />
